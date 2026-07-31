@@ -10321,6 +10321,7 @@
       ],
     },
   ],
-  updateUrl: 'https://raw.githubusercontent.com/zhang8686/gkd-slim-rules/main/mrky_gkd_slim.json5',
-  checkUpdateUrl: 'https://raw.githubusercontent.com/zhang8686/gkd-slim-rules/main/mrky_gkd_slim.json5',
+  updateUrl: 'https://raw.githubusercontent.com/zhang8686/gkd-slim-rules/main/mrky_gkd_slim_fixed.json5',
+  checkUpdateUrl: 'https://raw.githubusercontent.com/zhang8686/gkd-slim-rules/main/mrky_gkd_slim_fixed.json5',
+  supportUri: 'https://github.com/zhang8686/gkd-slim-rules',
 }
