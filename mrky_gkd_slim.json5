@@ -1,10 +1,8 @@
 {
   id: 666,
-  name: "AIsouler的GKD订阅-已停止维护",
+  name: "mrky的GKD订阅",
   version: 406,
-  author: "AIsouler",
-  checkUpdateUrl: "./AIsouler_gkd.version.json5",
-  supportUri: "https://github.com/AIsouler/GKD_subscription/issues/new/choose",
+  author: "mrky",
   categories: [
     {
       key: 0,
