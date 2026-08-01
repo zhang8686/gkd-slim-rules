@@ -1,10 +1,10 @@
 {
-  id: 668,
+  id: 886,
   name: 'mrky的GKD订阅 (slim)',
-  version: 406,
+  version: 12,
   author: 'mrky',
-  updateUrl: 'https://raw.githubusercontent.com/zhang8686/gkd-slim-rules/main/mrky_gkd_slim_fixed.json5',
-  checkUpdateUrl: 'https://raw.githubusercontent.com/zhang8686/gkd-slim-rules/main/mrky_gkd_slim_fixed.json5',
+  updateUrl: 'https://raw.githubusercontent.com/zhang8686/gkd-slim-rules/main/mrky_gkd_slim.json5',
+  checkUpdateUrl: 'https://raw.githubusercontent.com/zhang8686/gkd-slim-rules/main/mrky_gkd_slim.json5',
   supportUri: 'https://github.com/zhang8686/gkd-slim-rules',
   categories: [
     {
